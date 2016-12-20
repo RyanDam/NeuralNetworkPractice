@@ -1,0 +1,3 @@
+!# /bin/bash
+clear
+arch -i386 /usr/bin/python main.py
